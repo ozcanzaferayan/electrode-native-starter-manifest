@@ -1,6 +1,7 @@
 {
   "default": {
     "targetNativeDependencies": [
+      "react-native-fbads@7.0.5"
     ],
     "targetJsDependencies": [
     ]
