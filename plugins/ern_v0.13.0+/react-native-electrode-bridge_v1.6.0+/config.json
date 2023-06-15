@@ -1,7 +1,7 @@
 {
   "android": {
     "root": "",
-    "moduleName": "android"
+    "moduleName": ""
   },
   "ios": {
     "requiresManualLinking": true,
