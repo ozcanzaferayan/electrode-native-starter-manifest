@@ -1,6 +1,7 @@
 {
   "android": {
-    "moduleName": "electrode-reactnative-bridge"
+    "root": "",
+    "moduleName": "android"
   },
   "ios": {
     "requiresManualLinking": true,
