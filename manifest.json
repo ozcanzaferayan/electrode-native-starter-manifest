@@ -1,9 +1,6 @@
 {
   "default": {
-    "targetNativeDependencies": [
-      "react-native-fbads@7.0.5"
-    ],
-    "targetJsDependencies": [
-    ]
+    "targetNativeDependencies": ["react-native-electrode-bridge@1.6.0"],
+    "targetJsDependencies": []
   }
 }
